@@ -2,6 +2,10 @@
  
 A small web app that takes a positive integer and shows its full Collatz sequence, along with some statistics about it. Built with plain HTML, CSS and JavaScript.
  
+## Live Demo
+
+Try it in your browser: justaykhalid.github.io/-Collatz-sequence-calculator
+
 ## What is the Collatz conjecture?
  
 Start with any positive integer `n` and repeat:
