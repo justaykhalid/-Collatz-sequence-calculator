@@ -4,7 +4,7 @@ A small web app that takes a positive integer and shows its full Collatz sequenc
  
 ## Live Demo
 
-Try it in your browser: justaykhalid.github.io/-Collatz-sequence-calculator
+[Try it in your browser:](justaykhalid.github.io/-Collatz-sequence-calculator)
 
 ## What is the Collatz conjecture?
  
